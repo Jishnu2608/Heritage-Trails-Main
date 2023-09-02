@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Places",
+      "detail": "A captivating mosaic of scenic vistas and adventurous experiences, inviting exploration.",
+      "image": "./places.png",
+      "link":"https://leetcode.com/"
+      
+    },
+    {
+      "name": "Architecture",
+      "detail": "Distinctive architectural styles blending indigenous traditions with external influences.",
+      "image": "./architecture.png",
+      "link":"https://www.google.com/"
+    },
+    {
+      "name": "Historical sites",
+      "detail": "Ancient remnants that chronicle the region's fascinating past and offer glimpses into the historical tapestry.",
+      "image": "./historicalSites.png",
+      "link":"https://www.apple.com/"
+    },
+    {
+      "name": "History",
+      "detail": "A tapestry of ancient civilizations, tribal cultures, colonial encounters and post-independence developments.",
+      "image": "./history.png",
+      "link":"https://www.microsoft.com/"
+    },
+    {
+      "name": "Music",
+      "detail": "An enchanting fusion of traditional melodies, rhythmic beats, and vibrant folk traditions.",
+      "image": "./music.png",
+      "link":"https://www.samsung.com/"
+    },
+    {
+      "name": "Dance",
+      "detail": "Energetic and expressive dance forms showcasing cultural diversity and storytelling traditions.",
+      "image": "./dance.png",
+      "link":"https://www.tesla.com/"
+    },
+    {
+      "name": "Art & Craft",
+      "detail": "Vibrant and intricate art forms, handcrafted with skill and precision, representing the rich artistic heritage.",
+      "image": "./artAndCraft.png",
+      "link":"https://www.ibm.com/"
+    },
+    {
+      "name": "Literature",
+      "detail": "A diverse and compelling literary tradition that weaves together myths, folktales and contemporary narratives.",
+      "image": "./literature.png",
+      "link":"https://www.toyota-global.com/"
+    },
+    {
+      "name": "Cuisines",
+      "detail": "A tantalizing array of flavors and aromatic delicacies, rooted in local ingredients and culinary traditions.",
+      "image": "./cuisines.png",
+      "link":"https://www.meta.com/"
+    },
+    {
+      "name": "Festivals",
+      "detail": "Colorful celebrations filled with traditional rituals, vibrant costumes and spirited performances, showcasing the cultural vibrancy.",
+      "image": "./festivals.png",
+      "link":"https://www.amazon.com/"
+    }
+  ]

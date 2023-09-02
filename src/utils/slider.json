@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Arunachal Pradesh",
+      "detail": "Discover the tranquil beauty of Arunachal Pradesh, where snow-capped mountains, pristine lakes, and untouched landscapes create a serene paradise.",
+      "image": "./tawang.jpg"
+    },
+    {
+      "name": "Assam",
+      "detail": "Experience the tranquil charm of Assam, where serene tea gardens, meandering rivers, abundant wildlife and misty hills create a haven of serenity.",
+      "image": "./one-horned rhino.jpg"
+    },
+    {
+      "name": "Meghalaya",
+      "detail": "Embark on a serene journey through Meghalaya's misty hills, cascading waterfalls, and lush green landscapes, offering a tranquil escape from the bustling world.",
+      "image": "./cherrapunji.jpg"
+    },
+    {
+      "name": "Nagaland",
+      "detail": "Indulge in the serene charm of Nagaland, where verdant hills, enchanting valleys, and the peacefulness of tribal villages create a blissful retreat.",
+      "image": "./hornbill festival.jpg"
+    },
+    {
+      "name": "Manipur",
+      "detail": "Uncover the serene beauty of Manipur, where tranquil lakes, misty mountains, and serene valleys invite you to experience a peaceful escape.",
+      "image": "./loktak lake.jpg"
+    },
+    {
+      "name": "Mizoram",
+      "detail": "mbark on a journey to Mizoram and discover its serene landscapes, rolling hills, and tranquil beauty that will captivate your soul.",
+      "image": "./blue hills.png"
+    },
+    {
+      "name": "Tripura",
+      "detail": "Experience the serene allure of Tripura, where ancient palaces, lush green landscapes, and tranquil lakes create a peaceful haven for travelers.",
+      "image": "./neer mahal palace.jpg"
+    },
+    {
+      "name": "Sikkim",
+      "detail": "Embrace the tranquil serenity of Sikkim, where majestic Himalayan peaks, serene monasteries, and pristine landscapes create a peaceful retreat for the soul.",
+      "image": "./sikkim.jpg"
+    }
+  ]
