@@ -21,6 +21,10 @@ const Card = () =>{
                                     <img src={card.image} className="card-image" alt="cultural heritage"/>
                                     <span className="primaryText" style={{color: "orange"}}>{card.name}</span>
                                     <span className="secondaryText justifyAlignment" style={{color: "#1f3e72"}}>{card.detail}</span>
+                                    {/* <div> 
+                                    <p className="secondaryText" style={{ color: "#1f3e72", textAlign: "center" }}>
+                                    <strong>Click to discover more</strong>➡️</p>
+                                    </div> */}
                                 </div>
                             </a>
                         </SwiperSlide>

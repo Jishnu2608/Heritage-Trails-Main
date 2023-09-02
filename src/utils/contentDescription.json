@@ -1,6 +1,6 @@
 [
     {
-      "name": "Places",
+      "name": "Tourist places",
       "detail": "A captivating mosaic of scenic vistas and adventurous experiences, inviting exploration.",
       "image": "./places.png",
       "link":"https://heritage-trails-places.vercel.app/"
