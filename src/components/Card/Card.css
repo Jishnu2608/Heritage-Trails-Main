@@ -44,6 +44,25 @@
     box-shadow: 0px 72px 49px -51px rgba(136,160,255,0.21);
 }
 
+/* CSS for the zoom effect */
+.zoom-wrapper {
+    
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative; /* Add this line to create a stacking context */
+  }
+  
+  .zoom-wrapper img {
+    object-fit: cover;
+    transition: transform 0.75s; /* Added 's' to specify seconds for the transition */
+    height: 100%;
+  }
+  
+  .zoom-wrapper:hover img {
+    transform: scale(1.18);
+  }
+  
+
 .justifyAlignment{
     text-align: justify;
     text-justify: inter-word;

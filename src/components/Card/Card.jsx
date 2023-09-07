@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './Card.css';
 import {Swiper,SwiperSlide, useSwiper} from 'swiper/react';
 import "swiper/css";
@@ -17,14 +17,11 @@ const Card = () =>{
                 {data.map((card, i) => (
                         <SwiperSlide key={i}> 
                             <a href={card.link} className="card-link" target="_blank" rel="noopener noreferrer">
-                                <div className="flexColStart r-card">
+                                <div className="flexColStart r-card zoom-wrapper">
+                                    
                                     <img src={card.image} className="card-image" alt="cultural heritage"/>
                                     <span className="primaryText" style={{color: "orange"}}>{card.name}</span>
-                                    <span className="secondaryText justifyAlignment" style={{color: "#1f3e72"}}>{card.detail}</span>
-                                    {/* <div> 
-                                    <p className="secondaryText" style={{ color: "#1f3e72", textAlign: "center" }}>
-                                    <strong>Click to discover more</strong>➡️</p>
-                                    </div> */}
+                                    <span className="secondaryText justifyAlignment" style={{color: "#1f3e72"}}>{card.detail}</span>                                  
                                 </div>
                             </a>
                         </SwiperSlide>
